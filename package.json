@@ -1,0 +1,29 @@
+{
+  "name": "benchmark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuse-box/benchmark.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuse-box/benchmark/issues"
+  },
+  "homepage": "https://github.com/fuse-box/benchmark#readme",
+  "dependencies": {
+    "fuse-box": "^1.2.96",
+    "fusebox": "^0.1.0",
+    "mkdirp": "^0.5.1",
+    "realm-utils": "^1.0.6",
+    "webpack": "^1.14.0"
+  },
+  "devDependencies": {
+    "lodash": "^4.17.2"
+  }
+}
